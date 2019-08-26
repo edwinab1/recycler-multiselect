@@ -37,6 +37,7 @@
     </LinearLayout>
 
     <android.support.design.widget.FloatingActionButton
+        xmlns:app="schemas.android.com/apk/res-auto"
         android:id="@+id/fab_refresh"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
